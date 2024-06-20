@@ -132,13 +132,13 @@ If you did this task, you might even be ready to apply to Microsoft's incubator,
 ## My answer
 
 **Problem**
-The problem I want to tackle is teenage pregnancy in my home country, Ecuador.
+- The problem I want to tackle is teenage pregnancy in my home country, Ecuador.
 
 **How I would use AI**
-I would use AI to create a chatbot that could provide answers to sexual health-related questions, deliver sexual education, and also provide contacts to doctors or clinics.
+- I would use AI to create a chatbot that could provide answers to sexual health-related questions, deliver sexual education, and also provide contacts to doctors or clinics.
 
 **Impact**
-This could have a significant impact because there is a lack of sexual education in my country, and teenagers often find themselves without proper guidance. Additionally, teachers and parents may struggle to effectively communicate with them.
+- This could have a significant impact because there is a lack of sexual education in my country, and teenagers often find themselves without proper guidance. Additionally, teachers and parents may struggle to effectively communicate with them.
 
 ## Knowledge check
 
